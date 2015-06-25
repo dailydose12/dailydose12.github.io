@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Clean Blog - About</title>
+    <title>Daily Dose - About</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -44,7 +44,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="index.html">Start Bootstrap</a>
+                
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -92,9 +92,12 @@
                 <p>Hello guys!We are a group of students currently pursuing our B.Tech at C.E.T Bbsr.</p>
                 <h2 class="section-heading">Parakh Tripathy</h2>
                  
-                  <p>A civil b tech student of C.E.T BBSR.Sports and Entertainment coloumns amuses me from the very beginning..and so you might guess it right what my hobby is...yeah u got it right its writing in my own blog about the recent activities taking place around the world in the field of entertainment and sports... 
-                <p>arpit</p>
-                <p>baibaswata</p>
+                  <p>A civil B.Tech student. Sports and Entertainment coloumns amuses him from the very beginning..so he keeps record of the recent activities taking place around the world in the field of entertainment and sports. </p>
+                <h2 class="section-heading">Arpit Bhal</h2>
+                  <p>An Instrumentation and Electronics B.Tech student. He is a guy mostly interested in technology. Hence he maintains this website and updates it from time to time apart from keeping track of technology related posts. </p>
+                <h2 class="section-heading">Baibaswata Jena</h2>
+                  <p>An Instrumentation and Electronics B.Tech student. He is a very good quizzer and has knowledge on most topics. He takes care of all posts related to politics and on recent topics. 
+                
             </div>
         </div>
     </div>
@@ -108,7 +111,7 @@
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                     <ul class="list-inline text-center">
                         <li>
-                            <a href="#">
+                            <a href="https://twitter.com/ddose12">
                                 <span class="fa-stack fa-lg">
                                     <i class="fa fa-circle fa-stack-2x"></i>
                                     <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
@@ -116,7 +119,7 @@
                             </a>
                         </li>
                         <li>
-                            <a href="#">
+                            <a href="https://www.facebook.com/profile.php?id=100009658573502">
                                 <span class="fa-stack fa-lg">
                                     <i class="fa fa-circle fa-stack-2x"></i>
                                     <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
@@ -124,7 +127,7 @@
                             </a>
                         </li>
                         <li>
-                            <a href="#">
+                            <a href="https://github.com/dailydose12">
                                 <span class="fa-stack fa-lg">
                                     <i class="fa fa-circle fa-stack-2x"></i>
                                     <i class="fa fa-github fa-stack-1x fa-inverse"></i>
