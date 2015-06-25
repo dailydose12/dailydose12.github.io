@@ -27,24 +27,7 @@
     <!--[if lt IE 9]>
         <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-        <div id="disqus_thread"></div>
-<script type="text/javascript">
-    /* * * CONFIGURATION VARIABLES * * */
-    var disqus_shortname = 'ddose12';
-    
-    
-
-    
-    /* * * DON'T EDIT BELOW THIS LINE * * */
-    (function() {
-        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
-   <![endif]-->
-
+        
 </head>
 
 <body>
@@ -121,8 +104,7 @@
                       
                     
                     <p class="post-meta">Posted by <a href="#">Daily Dose</a> on September 24, 2014</p>
-                     <a href="http://dailydose12.github.io/blog-1#disqus_thread" data-disqus-identifier="blog-1" var disqus_title = 'blog-1';
-    var disqus_url = 'http://dailydose12.github.io/post.html'; var disqus_category_id = '3800839';>Comments</a>
+                     <a href="#disqus_thread" data-disqus-identifier="blog-1" >Comments</a>
                 </div>
                 <hr>
                
