@@ -31,10 +31,8 @@
 <script type="text/javascript">
     /* * * CONFIGURATION VARIABLES * * */
     var disqus_shortname = 'ddose12';
-    var disqus_identifier = 'blog-1';
-    var disqus_title = 'blog-1';
-    var disqus_url = 'http://dailydose12.github.io/post.html';
-    var disqus_category_id = '3800839';
+    
+    
 
     
     /* * * DON'T EDIT BELOW THIS LINE * * */
@@ -123,7 +121,8 @@
                       
                     
                     <p class="post-meta">Posted by <a href="#">Daily Dose</a> on September 24, 2014</p>
-                     <a href="http://dailydose12.github.io/blog-1#disqus_thread">Comments</a>
+                     <a href="http://dailydose12.github.io/blog-1#disqus_thread" data-disqus-identifier="blog-1" var disqus_title = 'blog-1';
+    var disqus_url = 'http://dailydose12.github.io/post.html'; var disqus_category_id = '3800839';>Comments</a>
                 </div>
                 <hr>
                
