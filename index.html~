@@ -56,7 +56,7 @@
                         <a href="about.html">About</a>
                     </li>
                     <li>
-                        <a href="post.html">Blogs</a>
+                        <a href="blogs.html">Blogs</a>
                     </li>
                     <li>
                         <a href="contact.html">Contact</a>
@@ -113,7 +113,7 @@
                 <!-- Pager -->
                 <ul class="pager">
                     <li class="next">
-                        <a href="#">Older Posts &rarr;</a>
+                        <a href="blogs.html">All Posts &rarr;</a>
                     </li>
                 </ul>
             </div>
