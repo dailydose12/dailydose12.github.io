@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="baibaswata writes on godmen" content="">
+    <meta name="daily dose" content="">
+
+    <title>Blogs</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="css/clean-blog.min.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href='http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-default navbar-custom navbar-fixed-top">
+        <div class="container-fluid">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li>
+                        <a href="index.html">Home</a>
+                    </li>
+                    <li>
+                        <a href="about.html">About</a>
+                    </li>
+                    <li>
+                        <a href="blogs.html">Blogs</a>
+                    </li>
+                    <li>
+                        <a href="contact.html">Contact</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+
+    <!-- Page Header -->
+    <!-- Set your background image for this header on the line below. -->
+    <header class="intro-header" style="background-image: url('img/cover godmen.jpg')">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                    <div class="post-heading">
+                        <h1>Baibaswata Writes On The "Godmen"</h1>
+                        
+                        <span class="meta">Posted by <a href="#">Daily Dose</a> on August 12, 2015</span>
+                    </div>
+                 <h2 class="subheading"><font color="white">Written By- Baibaswata Jena</font></h2>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Post Content -->
+    <article>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                    
+               
+           <h2 class="section-heading">Overview</h2>
+             <p>Asaram Bapu, Swami Rampal, Radhe Maa, Nithyananda Swami and now Sarathi Baba- what do all these people have in common? The common strand that connects all these people apart from the fact that they are all self-styled godmen or godwomen , is that they have all been implicated in various criminal cases . We consider our land to be that of spiritual greatness and religious fervor. But, as the above mentioned people have shown over the years, the same values which guide our society often guide us into their traps. We, as a nation have certainly proven ourselves to be susceptible to the charms of these miracle peddlers. The above mentioned people are symptoms of the mindset prevalent in our society- a mindset riddled with fear, greed and superstition which allow these people to lord over us.</p>
+
+                    <img class="img-responsive" src="img/nitya.jpg" alt="">
+                    <span class="caption text-muted"></span>
+                    
+                <h2 class="section-heading">Why Are Indians So Gullible?</h2>
+          
+                    
+               <p>The reason is not that hard to fathom. In today’s materialistic society, most of us want wealth, success and fame without any hard work. These desires provide avenues to these “godmen” to exploit us by promising us shortcuts to success. They work as service providers or facilitators to facilitate us with a short route to success. They operate quite cleverly managing to evade any minor suspicion. Their modus operandi can be understood to be similar to that of a person like Don Vito Corleone(from The Godfather) or a Bhai, who offers us a miraculous deal. Now these “godmen” work on similar principles except for the fact that the suit is replaced either by a saffron coloured outfit or an outlandish makeup with lots of ‘sindoor’.  Also, from our childhood, we are accustomed to offering bribes to God in the form of offerings or ‘bhog’ to achieve our goals. This makes the deals offered by these people sensible to us and we walk into their traps like gullible persons.</p>
+
+                     <img class="img-responsive" src="img/godman.jpg" alt="">
+                    
+                    
+
+                    
+                    <h2 class="section-heading">Why Do We Need To Blame And The Way Out</h2>
+
+                       
+
+                    <p>As per my view, the “godmen” or “godwomen” should not be blamed alone. Rather, the society and mindset which fosters such individuals should also be party to the blame. Without a mindset and society which fosters them and allows them to propagate their roots, these people will certainly lose their importance.  Our ancient philosophy does not treat God like a child who can be appeased with a few toys. Rather ,our ancient scriptures state that by offering anything produced under the Sun to God, we are committing a sin as we would only be offering the Rightful Owner His property. We should look to rise above the mentality that compels us to view greed and suspicion as the true values of the society. Rather, we should strive towards creating a society which can rise above such things. Because, as long as the current societal mindset will hold sway, there will rise more of the ilk of these self-proclaimed godmen who seek to deceive innocent and gullible people. </p>
+
+
+                     <img class="img-responsive" src="img/download.jpg" alt="">
+                    <p><img class="img-responsive" src="img/jail.jpg" alt=""></p>
+
+
+
+
+               </div>
+            </div>
+        </div>
+    </article>
+
+    <hr>
+
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES * * */
+    var disqus_shortname = 'ddose12';
+    var disqus_title = 'blog-1';
+    var disqus_url = 'http://dailydose12.github.io/post.html'; var disqus_category_id = '3800839';
+     var disqus_script = 'embed.js';
+    
+
+    
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+   <![endif]-->
+
+  
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                    <ul class="list-inline text-center">
+                        <li>
+                            <a href="https://twitter.com/ddose12">
+                                <span class="fa-stack fa-lg">
+                                    <i class="fa fa-circle fa-stack-2x"></i>
+                                    <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                                </span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.facebook.com/profile.php?id=100009658573502">
+                                <span class="fa-stack fa-lg">
+                                    <i class="fa fa-circle fa-stack-2x"></i>
+                                    <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+                                </span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://github.com/dailydose12">
+                                <span class="fa-stack fa-lg">
+                                    <i class="fa fa-circle fa-stack-2x"></i>
+                                    <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                                </span>
+                            </a>
+                        </li>
+                    </ul>
+                    <p class="copyright text-muted">Copyright &copy; Daily Dose 2015</p>
+                </div>
+            </div>
+        </div>
+
+       
+    </footer>
+ 
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+
+    <!-- Custom Theme JavaScript -->
+    <script src="js/clean-blog.min.js"></script>
+
+</body>
+
+</html>
