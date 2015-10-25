@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="" content="">
+    <meta name="daily dose" content="">
+
+    <title>Blogs</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="css/clean-blog.min.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href='http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-default navbar-custom navbar-fixed-top">
+        <div class="container-fluid">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li>
+                        <a href="index.html">Home</a>
+                    </li>
+                    <li>
+                        <a href="about.html">About</a>
+                    </li>
+                    <li>
+                        <a href="blogs.html">Blogs</a>
+                    </li>
+                    <li>
+                        <a href="contact.html">Contact</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+
+<!-- Page Header -->
+    <!-- Set your background image for this header on the line below. -->
+    <header class="intro-header" style="background-image: url('img/sehwag/cover.jpg')">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                    <div class="post-heading">
+                        <h1>Virender Sehwag</h1>
+                        <h2 class="subheading">Retirement Of An Era</h2>
+                        <span class="meta">Posted by <a href="#">Daily Dose</a> on Oct 24, 2015</span>
+                    </div>
+                     <h2 class="subheading"><font color="black">Written By- Parakh Tripathy </font></h2>
+                     <h2 class="subheading"><font color="black">Edited By- Arpit Bhal</font></h2>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Post Content -->
+    <article>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+
+<h2 class="section-heading">Overview</h2>
+
+             <p>
+</p>
+
+                    <img class="img-responsive" src="img/sehwag/.jpg" alt="">
+                    <span class="caption text-muted"></span>
+                    
+                
+          <h2 class="section-heading"> Early Life</h2>
+
+                    
+               <p>Born in a Delhi jat family Sehwag was very keen about his cricketing career from the very beginning. Even though his father was in favour of ending his cricketing career after he broke his tooth, he still had the jeal to carry on. His mother reminds how Sehwag would hide his equipments at his childhood friend Ashish Nehra’s house and would begin practising as early as about 5 am every morning where he and Nehra would travel to play friendly matches. His coach speaks of how he used to tie Sehwag’s left leg so that his legs don’t drag while he was hitting the cover drive.
+
+</p>
+
+                     <img class="img-responsive" src="img/sehwag/childhood.jpg" alt="">
+                    <span class="caption text-muted"></span>              
+
+                    
+
+                    
+                    <h2 class="section-heading">His Achievements</h2>
+
+                       
+
+                    <p>He was primarily considered an ardent follower of Sachin Tendulkar whom he also looked up to as an opener. His opening pair with Sachin is still considered one of the best opening pairs in the history of international cricket.
+Sachin, one of the greatest batsman of all time spoke about him as
+<blockquote>"I have to learn from Sehwag how to play in the nervous 90's"</blockquote>
+</p>
+                    <img class="img-responsive" src="img/sehwag/bat.jpg" alt="">
+                    <span class="caption text-muted"></span>              
+
+                    
+                  <p>Virender Sehwag in 2005 was considered by ‘WISDEN CRICKETER’S ALMANAC’ as ‘the most exciting opener’ due to his excuisive shot making capabilities and remarkable strike rate being only less than Adam Gilchrist and Shahid Afridi in test matches.
+The records held by him are innumerable, the best being the only Indian to score a triple century that too twice with his highest being 319 against South Africa,one of the major strengths of the game. He is also the second cricketer in the world to score a double century in ODI’s only after Sachin Tendulkar. He is also considered to be the inventor of the Upper cut shot in which he would hit a bouncer(something the fast bowlers could use to scare a batsman) over the keeper for a boundary, which made the fast bowlers wonder in surprise.
+Brett Lee, one of the feared bowlers of his time speaks on him:-
+<blockquote>"No matter how good and experienced you are, he can kill your attitude"</blockquote>
+</p>
+
+<img class="img-responsive" src="img/sehwag/partnership.jpg" alt="">
+                    <span class="caption text-muted"></span>
+<p>The records held by him are innumerable the best being the only Indian to score a triple century that too twice with his highest being 319 against South Africa, one of the major strengths of the game. He is also the second cricketer in the world to score a double century in ODI’s only after Sachin Tendulkar. He is also considered to be the inventor of the Upper cut shot in which he would hit a bouncer(something which bowlers used to scare batsman) over the third man for a boundary which made the bowlers stare in surprise. He has also scored the fastest triple century and fastest 250 in terms of balls faced which gives us a fair idea of the kind of batsman he was.
+</p>
+
+<h2 class="section-heading">Concluding Note</h2>
+       <p>  As he retires, Indians can’t forget his contribution in ICC T20 WORLD CUP 2007 and the ICC WORLD CUP 2011 where India were crowned champion. Let whatever be the situation he would be remembered as one who has never been influenced by the situation, rather he would play his own way humiliating great bowling attacks with his aggressive batting. It’s truly said Virender Sehwag was the entertainer and with his retirement the era of India’s dominant batting line up of early 21st century came to an end. Ramiz Raja speaks on him as:-
+<blockquote>"When Viv Richards retired I thought it was end of entertainment. But then came Sehwag the king of entertainment."</blockquote></p>      
+
+<img class="img-responsive" src="img/sehwag/quote.jpg" alt="">
+                    <span class="caption text-muted"></span>
+                 </div>
+            </div>
+        </div>
+    </article>
+
+    <hr>
+
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES * * */
+    var disqus_shortname = 'ddose12';
+    var disqus_title = '';
+    var disqus_url = 'http://dailydose12.github.io/post.html'; var disqus_category_id = '3800839';
+     var disqus_script = 'embed.js';
+    
+
+    
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+   <![endif]-->
+
+  
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                    <ul class="list-inline text-center">
+                        <li>
+                            <a href="https://twitter.com/ddose12">
+                                <span class="fa-stack fa-lg">
+                                    <i class="fa fa-circle fa-stack-2x"></i>
+                                    <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                                </span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.facebook.com/pages/Daily-Dose/584662021673888?ref=br_rs">
+                                <span class="fa-stack fa-lg">
+                                    <i class="fa fa-circle fa-stack-2x"></i>
+                                    <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+                                </span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://github.com/dailydose12">
+                                <span class="fa-stack fa-lg">
+                                    <i class="fa fa-circle fa-stack-2x"></i>
+                                    <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                                </span>
+                            </a>
+                        </li>
+                    </ul>
+                    <p class="copyright text-muted">Copyright &copy; Daily Dose 2015</p>
+                </div>
+            </div>
+        </div>
+
+  <!-- hitwebcounter Code START -->
+<a href="http://www.hitwebcounter.com/what-is-my-ip.php" target="_blank">
+<img src="http://hitwebcounter.com/counter/counter.php?page=6092567&style=0003&nbdigits=5&type=page&initCount=0" title="IP Address" Alt="IP Address"   border="0" >
+</a><br/>
+<!-- hitwebcounter.com --><a href="http://www.hitwebcounter.com/" title="Unique Hits" 
+target="_blank" style="font-family: Arial, Helvetica, sans-serif; 
+font-size: 20px; color: #636066; text-decoration: underline ;"><strong>visits</strong></a>
+
+
+</a>  
+
+<!-- hitwebcounter Code START -->
+<a href="http://www.hitwebcounter.com" target="_blank">
+<img src="http://hitwebcounter.com/counter/counter.php?page=6209056&style=0001&nbdigits=4&type=page&initCount=0" title="" Alt=""   border="0" >
+</a>                                        <br/>
+                                        <!-- hitwebcounter.com --><a href="http://www.hitwebcounter.com" title="Stats Of Hits" 
+                                        target="_blank" style="font-family: Geneva, Arial, Helvetica, sans-serif; 
+                                        font-size: 10px; color: #848387; text-decoration: underline ;"><strong>Stats Of Hits                                        </strong>
+                                        </a>   
+                             
+
+    </footer>
+ 
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+
+    <!-- Custom Theme JavaScript -->
+    <script src="js/clean-blog.min.js"></script>
+
+</body>
+
+</html>
